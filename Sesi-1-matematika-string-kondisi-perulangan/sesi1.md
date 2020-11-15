@@ -44,6 +44,8 @@ Perbedaan antara pembagian dan pembagian integer bergantung pada bahasanya. Saat
 
 
 
+
+
 ###### Operasi Standar Matematika
 
 Kita akan menggunakan operasi standar matematika dan simbol yang digunakan sebagai berikut :
@@ -52,6 +54,8 @@ Kita akan menggunakan operasi standar matematika dan simbol yang digunakan sebag
 <div style="text-align:center">Sumber : Kompasiana</div>
 
 Python menyediakan metode opsional dari library **math**, yaitu **math.pow()**, tetapi menggunakan simbol ** akan lebih mudah digunakan.
+
+
 
 
 
@@ -161,6 +165,8 @@ Kita akan melakukan operasi matematika pada dua angka. Contoh berikut penggunaan
    
    
 
+
+
 ###### Operator Berurut
 
 Tanda kurung berarti dalam Python. Dalam halnya komputasi, Python selalu menghitung apa yang ada di dalam tanda kurung terlebih dahulu. Bahasa Python mengikuti urutan operasi yang sama seperti di dunia matematika.
@@ -194,6 +200,10 @@ Yang perlu diperhatikan adalah bahwa tanda negatif dan tanda pengurangan itu sam
   ```
 
 Jika ragu, gunakan tanda kurung. Tanda kurung sangat membantu untuk operasi kompleks, dan tanda kurung tambahan tidak akan memengaruhi kode.
+
+
+
+
 
 
 
@@ -239,11 +249,19 @@ Tujuan dari latihan ini adalah mengasah operasi matematika dalam Python dan mema
 
 
 
+
+
+
+
 ###### Spasi dalam Python
 
 Kita mungkin bertanya-tanya tentang spasi di antara angka dan simbol. Dalam Python, spasi setelah angka atau simbol tidak memiliki arti apa pun. Spasi dimaksudkan untuk meningkatkan keterbacaan. 
 
 Jika kita mengembangkan kebiasaan baik sejak awal, itu akan membuat pembacaan dan debugging kode menjadi lebih mudah.
+
+
+
+
 
 
 
@@ -256,6 +274,10 @@ Integer dalam Python diklasifikasikan sebagai jenis **int**, kependekan dari int
 Float sebaliknya, tipe Python yang direpresentasikan sebagai desimal. Semua bilangan rasional yang dinyatakan sebagai pecahan dapat direpresentasikan sebagai float. Contoh float : 3.0, -2.0, 47.45, dan 200.001.
 
 Untuk mengetahui tipe data pada python, dapat menggunakan **type()** .
+
+
+
+
 
 
 
@@ -329,6 +351,10 @@ Tujuan dari latihan ini adalah untuk menentukan tipe data dan kemudian mengubah 
 
 
 
+
+
+
+
 ###### Jenis Bilangan Kompleks
 
 Python menyertakan bilangan kompleks sebagai tipe data. Bilangan kompleks muncul saat mengambil akar kuadrat dari bilangan negatif. Tidak ada bilangan real yang akar kuadratnya -9, jadi kita katakan itu sama dengan 3i. Contoh lain dari bilangan kompleks adalah 2i + 3. Python menggunakan **j**, bukan **i**.
@@ -351,9 +377,17 @@ Untuk informasi lebih lanjut tentang bilangan kompleks, bisa di cek ke [https://
 
 
 
+
+
+
+
 ###### Error dalam Python
 
 Dalam pemrograman,  tidak perlu ditakuti error. Error umum tidak hanya untuk pemula tetapi untuk semua developer. Untuk saat ini, jika kita mendapatkan error, kita bisa coba lagi. Error Python di Notebook Jupyter tidak akan merusak komputer kita atau menyebabkan masalah serius.
+
+
+
+
 
 
 
@@ -363,9 +397,17 @@ Di Python, variabel adalah slot memori yang dapat menyimpan elemen jenis apa pun
 
 
 
+
+
+
+
 ###### Variabel Khusus
 
 Dalam Python, variabel diperkenalkan dengan cara yang sama seperti dalam matematika, dengan menggunakan tanda sama dengan. Namun, dalam sebagian besar bahasa pemrograman, x = 3.14 berarti bahwa nilai 3.14 di masukan ke variabel x. Namun, 3,14 = x akan menghasilkan error karena tidak mungkin untuk menetapkan variabel ke angka. 
+
+
+
+
 
 
 
@@ -412,6 +454,11 @@ Tujuan dari latihan ini adalah untuk memberikan nilai pada variabel. Variabel da
   Pada langkah ini, kita mengubah nilai **x** menjadi **4.0**, dan seperti pada 2 langkah sebelumnya, kita akan menambahkan **1** ke variabel **x**.
 
 
+
+
+
+
+
 ###### Mengubah Tipe Data
 
 Dalam beberapa bahasa, variabel tidak mungkin berubah jenis. Artinya jika variabel **y** adalah bilangan bulat, maka y akan selalu berupa bilangan bulat. Python, diketik secara dinamis, seperti yang kita lihat di Latihan 3, Menetapkan Variabel dan seperti yang diilustrasikan dalam contoh berikut:
@@ -444,6 +491,10 @@ Dalam beberapa bahasa, variabel tidak mungkin berubah jenis. Artinya jika variab
 
   
 
+
+
+
+
 ###### Menetapkan Ulang Variabel dengan Ketentuan Sendiri
 
 Biasanya dalam pemrograman untuk menambahkan 1 ke variabe seperti ini, **x = x + 1**. Dapat di singkat menggunakan **+=** seperti pada contoh berikut:
@@ -453,6 +504,10 @@ x += 1
 ```
 
 Jadi, jika **x** sebelumnya **6**, **x** yg sekarang adalah **7**. Operator **+=** menambahkan bilangan di sebelah kanan ke variabel dan menetapkan variabel sama dengan bilangan baru.
+
+
+
+
 
 
 
@@ -472,6 +527,10 @@ Kita akan mendapatkan output berikut:
 ```
 9.0
 ```
+
+
+
+
 
 
 
@@ -495,6 +554,10 @@ print(keyword.kwlist)
 Kita akan mendapatkan output berikut: 
 
 ![](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\3.png)
+
+
+
+
 
 
 
@@ -541,9 +604,17 @@ Kita mendapatkan error yang disebutkan pada gambar di atas karena kita tidak dap
 
    
 
+
+
+
+
 ###### Variabel Lebih dari Satu
 
 Kebanyakan program berisi variabel lebih dari satu. Aturan yang sama berlaku seperti saat dengan variabel tunggal. Kita akan berlatih dengan variabel lebih dari satu.
+
+
+
+
 
 
 
@@ -592,9 +663,17 @@ x // y
     
     
 
+
+
+
+
 ###### Komentar
 
 Komentar adalah blok kode tambahan yang tidak berjalan. Mereka dimaksudkan untuk mengklarifikasi kode bagi pembaca. Di Python, teks apa pun yang mengikuti simbol # pada satu baris adalah komentar.
+
+
+
+
 
 
 
@@ -627,6 +706,10 @@ Dalam latihan ini, Kita akan mempelajari dua cara berbeda untuk menampilkan kome
 
 
 
+
+
+
+
 ###### Docstrings
 
 Docstrings, kependekan dari documen string, menyatakan apa yang sebenarnya dilakukan oleh dokumen tertentu, seperti program, fungsi, atau kelas. Perbedaan utama dalam sintaksis antara docstring dan komentar adalah bahwa docstring dimaksudkan untuk ditulis dalam beberapa baris, yang dapat diselesaikan dengan tanda kutip tiga " " ". Mereka juga memperkenalkan dokumen tertentu, sehingga ditempatkan di bagian atas koding.
@@ -640,6 +723,10 @@ Dokumen ini akan menjelaskan mengapa komentar sangat berguna saat menulis dan me
 ```
 
 Saat kita menjalankan sel ini, tidak ada yang terjadi. Docstrings, seperti komentar, dirancang sebagai informasi bagi pengembang yang membaca dan menulis kode; mereka tidak ada hubungannya dengan output.
+
+
+
+
 
 
 
@@ -664,6 +751,10 @@ Langkah-langkahnya adalah sebagai berikut:
 
 
 
+
+
+
+
 ##### Strings: Concatenation, Methods, dan input() 
 
 Kita telah belajar bagaimana mengekspresikan angka, operasi, dan variabel. Bagaimana dengan kata-kata ? Dalam Python, apa pun yang berada di antara tanda kutip 'tunggal' atau "ganda" dianggap sebagai string. String biasanya digunakan untuk mengekspresikan kata-kata, tetapi memiliki banyak kegunaan lain, termasuk menampilkan informasi kepada pengguna dan mengambil informasi dari pengguna.
@@ -674,9 +765,17 @@ Di bagian ini, kita akan mendapatkan belajar dengan string dengan memeriksa meto
 
 
 
+
+
+
+
 ###### String Syntax
 
 Meskipun string dapat menggunakan tanda kutip tunggal atau ganda, string yang diberikan akan konsisten secara internal. Artinya, jika sebuah string dimulai dengan satu kutipan, maka harus diakhiri dengan satu kutipan. Hal yang sama berlaku untuk tanda kutip ganda.
+
+
+
+
 
 
 
@@ -742,6 +841,10 @@ Python menggunakan karakter garis miring terbalik, \, yang disebut urutan escape
 
 
 
+
+
+
+
 ###### Escape Sequence dengan Tanda Kutip
 
 Berikut adalah cara kerja escape sequence dengan tanda kutip. Garis miring terbalik menimpa kutipan tunggal sebagai kutipan akhir dan memungkinkannya untuk diinterpretasikan sebagai karakter string :
@@ -749,6 +852,10 @@ Berikut adalah cara kerja escape sequence dengan tanda kutip. Garis miring terba
 ```
 tokobuku = 'Moe\'s'
 ```
+
+
+
+
 
 
 
@@ -766,9 +873,17 @@ Selama liburan ke Jakarta, kami menunggu dalam antrean panjang di Stasiun Gambir
 
 
 
+
+
+
+
 ###### Fungsi print()
 
 Fungsi **print()** digunakan untuk menampilkan informasi kepada pengguna, atau developer. Ini adalah salah satu fungsi bawaan Python yang paling banyak digunakan.
+
+
+
+
 
 
 
@@ -847,9 +962,17 @@ Dalam latihan ini, kita akan mempelajari berbagai cara untuk menampilkan string 
 
 
 
+
+
+
+
 ###### Operasi String dan Concatenation
 
 Operator perkalian dan penjumlahan bisa dijalankan dengan string. Secara khusus, operator + menggabungkan dua string menjadi satu dan disebut sebagai penggabungan string. Operator *, untuk perkalian, mengulang sebuah string. Dalam latihan berikut, Anda akan melihat rangkaian string dalam sampel string kami.
+
+
+
+
 
 
 
@@ -902,9 +1025,19 @@ Dalam latihan ini, kita akan belajar cara menggabungkan string menggunakan conca
 
 
 
+
+
+
+
 ##### Interpolasi String 
 
 Saat menulis string, kita mungkin ingin memasukkan variabel ke dalam output. Interpolasi string menyertakan nama variabel sebagai placeholder di dalam string. Ada dua metode standar untuk mencapai interpolasi string: **koma pemisah** dan **format**.
+
+
+
+
+
+
 
 ###### Koma Pemisah
 
@@ -922,6 +1055,10 @@ Kita akan mendapatkan output berikut:
 ```
 Haruskah kita menyapa orang dengan Ciao di Pantai Utara?
 ```
+
+
+
+
 
 
 
@@ -945,6 +1082,10 @@ Cara kerja **Format** sebagai berikut: Pertama, tentukan variabel. Selanjutnya, 
 
 
 
+
+
+
+
 ###### Fungsi len()
 
 Ada banyak fungsi bawaan yang sangat berguna untuk string. Salah satu fungsi tersebut adalah **len()**, yang merupakan kependekan dari length. Fungsi **len()** menentukan jumlah karakter dalam string tertentu.
@@ -965,11 +1106,19 @@ Kita akan mendapatkan output berikut:
 
 
 
+
+
+
+
 ###### String Methods
 
 Semua tipe data Python, termasuk string, memiliki metodenya sendiri. Metode ini umumnya menyediakan pintasan untuk mengimplementasikan tugas yang berguna. Metode dalam Python, seperti dalam banyak bahasa lainnya, diakses melalui notasi titik. 
 
 Kita dapat menggunakan variabel baru, **name**, untuk mengakses berbagai metode. Kita dapat melihat semua metode dengan menekan tombol Tab setelah variabel **name** dan titik.
+
+
+
+
 
 
 
@@ -1033,9 +1182,17 @@ Dalam latihan ini, Kita akan belajar bagaimana mengimplementasikan method string
 
    
 
+
+
+
+
 ###### Casting
 
 Biasanya bilangan dinyatakan sebagai string saat berhadapan dengan input dan output. Perhatikan bahwa **'5'** dan **5** adalah tipe yang berbeda. Kita dapat dengan mudah mengkonversi antara angka dan string menggunakan kata kunci jenis yang sesuai. Dalam latihan berikut, kita akan menggunakan tipe data dan casting untuk memahami konsep dengan lebih baik.
+
+
+
+
 
 
 
@@ -1099,9 +1256,17 @@ Dalam latihan ini, Kita akan mempelajari bagaimana tipe data dan casting dapat b
 
    
 
+
+
+
+
 ###### Fungsi input()
 
 Fungsi **input()** adalah fungsi bawaan yang memungkinkan inputan dari pengguna. Ini sedikit berbeda dari yang telah kita lihat sejauh ini.
+
+
+
+
 
 
 
@@ -1144,6 +1309,10 @@ Dalam latihan ini, Kita akan menggunakan fungsi **input()** untuk mendapatkan in
 
 
 
+
+
+
+
 ###### Kegiatan 3 : Menggunakan Fungsi input() untuk Menilai Hari Mu
 
 Dalam kegiatan ini, Kita perlu membuat tipe data input di mana kita meminta pengguna untuk menilai hari mereka pada skala 1 sampai 10. 
@@ -1159,9 +1328,17 @@ Langkah-langkahnya adalah sebagai berikut:
 
 
 
+
+
+
+
 ##### String Indexing dan Slicing 
 
 **Indexing** dan **Slicing** adalah bagian penting dari pemrograman. Dalam analisis data, pengindeksan (indexing) dan pemotongan (slicing) DataFrames sangat penting untuk melacak baris dan kolom, sesuatu yang akan kita akan pelajari dengan pandas dan NumPy nanti. Mekanika di balik pengindeksan dan pemotongan dataFrames sama dengan pengindeksan dan pemotongan string, yang akan kita pelajari sekarang ini.
+
+
+
+
 
 
 
@@ -1272,6 +1449,10 @@ Kita mungkin bertanya-tanya apakah kita melakukan kesalahan karena tidak ada hur
 
 
 
+
+
+
+
 ##### Slicing
 
 Slice adalah bagian dari string atau elemen lainnya. Irisan (slice) dapat berupa seluruh elemen atau satu karakter, tetapi lebih umum sekelompok karakter yang berdampingan.
@@ -1338,6 +1519,10 @@ Tanda negatif, **-**, berarti kita mulai dari huruf ketiga sampai terakhir, dan 
 
 
 
+
+
+
+
 ###### String dan Metodenya
 
 Kita mulai dengan sintaks string, sebelum beralih ke berbagai cara untuk menggabungkan string. Kita melihat fungsi built-in yang berguna termasuk **len()** dan memeriksa contoh metode string. Selanjutnya, Anda memasukkan angka sebagai string dan sebaliknya.
@@ -1345,6 +1530,10 @@ Kita mulai dengan sintaks string, sebelum beralih ke berbagai cara untuk menggab
 Fungsi **input()** digunakan untuk mengakses input pengguna. Menanggapi umpan balik pengguna adalah elemen inti dari pemrograman yang akan terus kita kembangkan. Terakhir, kita menutup dengan dua alat canggih yang sering digunakan developer: indexing dan slicing.
 
 Ada banyak hal yang perlu dipelajari tentang string.  Selanjutnya, Kita akan belajar cara mencabangkan program menggunakan Conditional dan Boolean.
+
+
+
+
 
 
 
@@ -1356,9 +1545,17 @@ Pemrograman berdasarkan banyak kasus disebut sebagai percabangan. Setiap cabang 
 
 
 
+
+
+
+
 ###### Booleans
 
 Dalam Python, objek kelas Boolean diwakili oleh kata kunci **bool** dan memiliki nilai **True** atau **False**.
+
+
+
+
 
 
 
@@ -1399,6 +1596,10 @@ Dalam latihan singkat ini, kita akan menggunakan, menetapkan, dan memeriksa tipe
 
 
   Dalam latihan singkat dan cepat ini, kita telah belajar tentang tipe data **bool**, salah satu tipe terpenting Python.
+
+
+
+
 
 
 
@@ -1502,6 +1703,10 @@ Tentukan apakah kondisi berikut ini **True** atau **False** mengingat **over_18 
 
 
 
+
+
+
+
 ###### Operator Perbandingan
 
 Objek Python dapat dibandingkan menggunakan berbagai simbol yang mengevaluasi Boolean.
@@ -1513,6 +1718,10 @@ Gambar berikut menunjukkan tabel perbandingan dengan operator yang sesuai:
 <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\12.jpg" style="zoom:80%;" />
 
 <div style="text-align:center">Sumber : galery-it.site</div>
+
+
+
+
 
 
 
@@ -1635,9 +1844,17 @@ Dalam latihan ini, kita akan berlatih menggunakan operator pembanding. Kita akan
 
 
 
+
+
+
+
 ###### Membandingkan String
 
 Apakah **'a' < 'c'** masuk akal? Bagaimana dengan **'New York' > 'San Francisco'**? Python menggunakan konvensi urutan abjad untuk memahami perbandingan ini. Pemikiran kamus : ketika membandingkan dua kata, kata yang muncul belakangan dalam kamus dianggap lebih besar dari kata yang muncul sebelumnya.
+
+
+
+
 
 
 
@@ -1679,11 +1896,19 @@ Dalam latihan ini, Anda akan membandingkan string menggunakan Python:
 
 
 
+
+
+
+
 ###### Conditional
 
 Conditional digunakan ketika kita ingin mengekspresikan kode berdasarkan serangkaian keadaan atau nilai. Kondisional mengevaluasi nilai Boolean atau ekspresi Boolean, dan biasanya diawali dengan **'if'**. 
 
 Katakanlah kita sedang menulis program pemungutan suara, dan kita ingin mencetak sesuatu hanya jika pengguna berusia di bawah 18 tahun.
+
+
+
+
 
 
 
@@ -1706,11 +1931,19 @@ Python menggunakan **indentasi**, bukan tanda kurung. Indentasi bisa menguntungk
 
 
 
+
+
+
+
 ###### Indentasi
 
 Indentasi adalah salah satu fitur tunggal Python. Indentasi digunakan di semua tempat dengan Python. Salah satu keuntungannya adalah jumlah penekanan tombol. Dibutuhkan satu penekanan tombol untuk tab, dan dua kali penekanan tombol untuk menyisipkan tanda kurung. Keuntungan lainnya adalah keterbacaan. Lebih jelas dan lebih mudah untuk membaca kode ketika semuanya berbagi indentasi yang sama, yang berarti blok kode memiliki cabang yang sama.
 
 Salah satu potensi kekurangannya adalah banyak tab dapat menarik teks ke luar layar, tetapi ini jarang terjadi, dan biasanya dapat dihindari dengan kode yang elegan. Masalah lain, seperti membuat indentasi atau menghapus beberapa baris, dapat ditangani melalui shortcut. Pilih semua teks dan tekan **Tab** untuk membuat indentasi. Pilih semua teks dan tekan **Shift + Tab** untuk membatalkan indentasi.
+
+
+
+
 
 
 
@@ -1757,9 +1990,17 @@ Dalam latihan ini, kita akan menggunakan kondisional menggunakan klausa **if** :
 
 
 
+
+
+
+
 ###### if else
 
 Kondisional **if** biasanya digabungkan dengan klausa **else**. Contohnya adalah sebagai berikut. Katakanlah kita ingin mencetak semua pengguna kecuali pengguna berusia di bawah 18 tahun. Kitadapat mengatasinya dengan kondisional **if-else**. Jika pengguna kurang dari 18, Kita akan mencetak satu pernyataan. Jika tidak, Kita akan mencetak yang lain. Klausa sebaliknya diawali dengan **else**.
+
+
+
+
 
 
 
@@ -1809,6 +2050,10 @@ Program adalah sekumpulan instruksi yang dijalankan oleh komputer untuk menyeles
 
 
 
+
+
+
+
 ###### Pernyataan elif
 
 **elif** adalah kependekan dari **else if**. **elif** tidak memiliki arti dalam isolasi. elif muncul di antara klausa **if** dan **else**. Sebuah contoh harus membuat segalanya lebih jelas. Lihat cuplikan kode berikut dan salin ke notebook Jupyter. Penjelasan untuk kode ini disebutkan tepat setelah output (usia menggunakan nilai dari sebelumnya) :
@@ -1844,6 +2089,10 @@ Sekarang, mari kita uraikan kode untuk penjelasannya :
 
 
 
+
+
+
+
 ##### Loops
 
 "Tulis 100 angka pertama."
@@ -1859,6 +2108,10 @@ Ada tiga komponen utama loop:
 3. Kenaikan antara angka dalam loop
 
 Python membedakan antara dua jenis loop dasar: **while** loop, dan **for** loop.
+
+
+
+
 
 
 
@@ -1912,6 +2165,10 @@ Sekarang setelah kita memahami bagiannya, sekarang kita harus melihat cara kerja
 
 
 
+
+
+
+
 ###### Loop Tak Terhingga
 
 Sekarang kita akan mencoba loop tak terhingga. Potongan kode berikut mendukung topik ini:
@@ -1930,6 +2187,10 @@ while x<= 20:
     print(x)
     x += 5
 ```
+
+
+
+
 
 
 
@@ -1955,6 +2216,10 @@ Iterator **x + = 1** ditempatkan di awal pengulangan. Ini memungkinkan kita untu
 
 Karena 101 tidak habis dibagi **17**, loop berulang, dan **x = 102**. Karena **102** habis dibagi **17**, statement print dieksekusi dan kita keluar dari loop.
 Ini adalah pertama kalinya kita menggunakan **indentasi ganda**. Karena kondisional **if** ada di dalam **loop** sementara, itu harus diindentasi juga.
+
+
+
+
 
 
 
@@ -1987,6 +2252,10 @@ Ikuti cara berikut :
    ```
 
    
+
+
+
+
 
 ###### Latihan 18 : Menghitung Kuadrat Sempurna
 
@@ -2083,6 +2352,10 @@ Ikuti langkah berikut :
     ```
 
     
+
+
+
+
 
 
 
@@ -2189,9 +2462,17 @@ Tawaran anda untuk 650000000 telah diterima!
 
 
 
+
+
+
+
 ###### for Loop
 
 Loop **for** mirip dengan **while** loop, tetapi memiliki kelebihan tambahan, seperti dapat melakukan iterasi terhadap string dan objek lainnya.
+
+
+
+
 
 
 
@@ -2340,6 +2621,10 @@ l
 
 
 
+
+
+
+
 ###### Kata Kunci continue
 
 **Continue** adalah kata kunci Python lain yang didesain untuk loop. Ketika Python mencapai kata kunci **continue**, itu menghentikan kode dan kembali ke awal perulangan.
@@ -2392,6 +2677,10 @@ Angka berikutnya yang diperiksa adalah 11. Karena 2,3,5, dan 7 tidak membagi 11,
 
 
 
+
+
+
+
 ###### Kegiatan 5 : Membangun Bot Percakapan Menggunakan Python
 
 Kamu bekerja sebagai Python Developer dan kamu sedang membangun dua bot percakapan untuk klienmu. Kamu membuat daftar langkah-langkah sebelumnya untuk membantumu, seperti yang diuraikan di bagian berikut. Langkah-langkah ini akan membantumu membangun dua bot yang mengambil masukan dari pengguna dan menghasilkan respon.
@@ -2422,6 +2711,10 @@ Output yang diharapkan untuk bot 1 adalah sebagai berikut:
 Output yang diharapkan untuk bot 2 adalah sebagai berikut:
 
 ![14](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\14.png)
+
+
+
+
 
 
 
