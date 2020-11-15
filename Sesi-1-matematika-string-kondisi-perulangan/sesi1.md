@@ -8,6 +8,10 @@
 
 Setelah kita menginstall Anaconda, yang termasuk dengan Python dan Jupyter Notebook. Sekarang saatnya menjalankan Jupyter Notebook.
 
+
+
+
+
 **Cara menjalankan Jupyter Notebook**
 
 Ikuti langkah berikut :
@@ -19,6 +23,10 @@ Ikuti langkah berikut :
 3. Jendela Windows baru akan mengarahkan ke Web Browser.
 
    <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\1.png" style="zoom:50%;" />
+
+
+
+
 
 
 
@@ -34,6 +42,8 @@ Perbedaan antara pembagian dan pembagian integer bergantung pada bahasanya. Saat
 
 
 
+
+
 ###### Operasi Standar Matematika
 
 Kita akan menggunakan operasi standar matematika dan simbol yang digunakan sebagai berikut :
@@ -42,6 +52,8 @@ Kita akan menggunakan operasi standar matematika dan simbol yang digunakan sebag
 <div style="text-align:center">Sumber : Kompasiana</div>
 
 Python menyediakan metode opsional dari library **math**, yaitu **math.pow()**, tetapi menggunakan simbol ** akan lebih mudah digunakan.
+
+
 
 
 
@@ -145,6 +157,8 @@ Kita akan melakukan operasi matematika pada dua angka. Contoh berikut penggunaan
 
    Operator modulus dilakukan dengan menggunakan operator **%**. Mengembalikan sisanya angka pembagian angka pertama dan kedua.
 
+   
+   
    
 
 ###### Operator Berurut
