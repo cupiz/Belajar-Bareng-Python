@@ -51,10 +51,10 @@ Kita akan menggunakan Python (dari [https://python.org]( https://python.org)).
 2. Buka [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/) dan download serta install.
 
 3. Sekarang gunakan pencarian (search) Windows, ketik Anaconda Navigator, dan klik untuk menjalankan aplikasi. Contoh Tampilan:
-    <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\1.png" style="zoom:50%;" />
+    ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/1.png)
 
 4. Sekarang, klik Launch di bawah opsi Notebook Jupyter dan notebook akan berjalan di sistem lokal :
-    <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\2.png" style="zoom:50%;" />
+    ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/2.png)
 
    Notebook Jupyter telah berhasil menginstal Notebook Jupyter ke sistem lokal kita.
 
