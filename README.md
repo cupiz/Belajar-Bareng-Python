@@ -70,7 +70,7 @@ Untuk menginstal terminal Python di Windows, ikuti langkah-langkah berikut :
 
 3.  Selanjutnya, di menu Start Windows, cari Python dan klik software. Terminal Python akan terlihat seperti ini:
 
-   <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\3.png" style="zoom:50%;" />
+   ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/3.png)
 
    Interface terminal Python telah berhasil di install ke sistem.
 
@@ -109,14 +109,14 @@ Jika sudah menginstal Anaconda seperti yang disarankan, seharusnya sudah package
 ##### Install Docker 
 
 1. Buka docker.com dan klik Get Started :
-<img src="D:\Cupiz\Nulis\Python\Workshop\gambar\4.png" style="zoom:50%;" />
+![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/4.png)
 2. Selanjutnya,pilih Docker Desktop klik Download :
-    <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\5.png" style="zoom:50%;" />
+    ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/5.png)
 
 3. Buat Docker ID di https://hub.docker.com/signup dan verifikasi email.
 
-   <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\5b.png" style="zoom: 50%;" />
+   ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/5b.png)
 
 4. Install Docker yang sudah di Download tadi, tunggu dan restart Windows.
 
-   <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\5a.png" style="zoom:50%;" />
+   ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/5a.png)
