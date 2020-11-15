@@ -22,7 +22,7 @@ Ikuti langkah berikut :
 
 3. Jendela Windows baru akan mengarahkan ke Web Browser.
 
-   <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\1.png" style="zoom:50%;" />
+   ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/1.png)
 
 
 
@@ -81,7 +81,7 @@ Kita akan melakukan operasi matematika pada dua angka. Contoh berikut penggunaan
 
    Kita bisa mencobanya di Jupyter, ketik kode pada kotak dan pilih klik **Run**. Contoh pada Jupyter :
 
-   ![](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\2.png)
+   ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/2.png)
 
 2. Kita dapat melakukan pengurangan pada dua angka: 
 
@@ -553,7 +553,7 @@ print(keyword.kwlist)
 
 Kita akan mendapatkan output berikut: 
 
-![](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\3.png)
+![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/3.png)
 
 
 
@@ -574,7 +574,7 @@ Tujuan dari latihan ini adalah untuk mempelajari cara standar menamai variabel d
 
   Kita akan mendapatkan output berikut :
 
-<img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\4.png" style="zoom: 80%;" />
+![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/4.png)
 
 Kita akan mendapatkan error yang seperti pada gambar sebelumnya karena kita tidak dapat memulai variabel dengan angka.
 
@@ -592,7 +592,7 @@ Kita akan mendapatkan error yang seperti pada gambar sebelumnya karena kita tida
 
    Kita akan mendapatkan output berikut:
 
-   <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\5.png" style="zoom:80%;" />
+   ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/5.png)>
 
 Kita mendapatkan error yang disebutkan pada gambar di atas karena kita tidak dapat menyertakan variabel dengan karakter khusus.
 
@@ -799,7 +799,7 @@ Tujuan dari latihan ini adalah untuk mempelajari syntax string yang sesuai :
 
   Kita mendapatkan output berikut :
 
-<img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\5a.png" style="zoom:67%;" />
+![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/5a.png)
 
 Jika kita memulai dengan satu kutipan, harus diakhiri dengan satu kutipan. Karena string belum selesai, kita menerima syntax error.
 
@@ -819,7 +819,7 @@ Jika kita memulai dengan satu kutipan, harus diakhiri dengan satu kutipan. Karen
 
    Kita mendapatkan output berikut :
 
-   <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\7.png" style="zoom:67%;" />
+   ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/7.png)
 
 Ini adalah sebuah masalah. Kita memulai dan mengakhiri dengan tanda kutip tunggal, lalu kita menambahkan tanda s dan tanda kutip tunggal lainnya.
 
@@ -835,7 +835,7 @@ Dalam latihan ini, kita telah mempelajari cara yang benar dan salah dalam meneta
 
 Python menggunakan karakter garis miring terbalik, \, yang disebut urutan escape dalam string, untuk memungkinkan penyisipan semua jenis kutipan di dalam string. Karakter yang mengikuti garis miring terbalik dalam urutan escape dapat ditafsirkan seperti yang disebutkan dalam dokumentasi resmi Python, yang mengikuti. Catatan khusus adalah \n, yang digunakan untuk membuat baris baru:
 
-<img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\8.png" style="zoom: 50%;" />
+![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/8.png)
 
 <div style="text-align:center">Sumber : Medium - Raka Flyhigh A.</div>
 
@@ -1285,7 +1285,7 @@ Dalam latihan ini, Kita akan menggunakan fungsi **input()** untuk mendapatkan in
 
    Kita akan mendapatkan hasil sebagai berikut:
 
-   <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\9.png" style="zoom:67%;" />
+   ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/9.png)
 
 3. Sekarang, atur variabel yang akan sama dengan fungsi **input()**, seperti berikut: 
 
@@ -1295,7 +1295,7 @@ Dalam latihan ini, Kita akan menggunakan fungsi **input()** untuk mendapatkan in
 
    Kita akan mendapatkan output berikut:
 
-   <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\10.png" style="zoom:67%;" />
+   ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/10.png)
 
 4. Terakhir, pilih ouput yang sesuai: 
 
@@ -1305,7 +1305,7 @@ Dalam latihan ini, Kita akan menggunakan fungsi **input()** untuk mendapatkan in
 
    Kita akan mendapatkan ouput berikut:
 
-   <img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\11.png" style="zoom:67%;" />
+   ![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/11.png)
 
 
 
@@ -1715,7 +1715,7 @@ Gambar berikut menunjukkan tabel perbandingan dengan operator yang sesuai:
 
 
 
-<img src="D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\12.jpg" style="zoom:80%;" />
+![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/12.png)
 
 <div style="text-align:center">Sumber : galery-it.site</div>
 
@@ -2706,11 +2706,11 @@ Untuk bot kedua, langkah-langkahnya adalah sebagai berikut:
 
 Output yang diharapkan untuk bot 1 adalah sebagai berikut:
 
-![13](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\13.png)
+![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/13.png)
 
 Output yang diharapkan untuk bot 2 adalah sebagai berikut:
 
-![14](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi1\14.png)
+![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi1/14.png)
 
 
 
