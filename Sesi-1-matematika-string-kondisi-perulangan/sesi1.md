@@ -925,9 +925,9 @@ Dalam latihan ini, kita akan mempelajari berbagai cara untuk menampilkan string 
 4. Pertimbangkan urutan kode berikut dalam satu sel di Notebook Jupyter :
 
    ```
-   salam_ spanyol = 'Hola.'
-   salam_ spanyol
-   salam_ arab = 'Ahlan wa sahlan.'
+   salam_spanyol = 'Hola.'
+   salam_spanyol
+   salam_arab = 'Ahlan wa sahlan.'
    ```
 
    Ketika sel sebelumnya dijalankan, kode sebelumnya tidak menampilkan **salam_spanyol**. Jika kode dijalankan pada terminal sebagai tiga baris terpisah, maka akan menampilkan **Hola.**, String yang ditetapkan ke **salam_spanyol**. Hal yang sama juga berlaku jika urutan kode sebelumnya dijalankan dalam tiga sel terpisah di Notebook Jupyter. Agar konsistensi, berguna untuk menggunakan **print()** setiap kali informasi harus ditampilkan.
@@ -936,7 +936,7 @@ Dalam latihan ini, kita akan mempelajari berbagai cara untuk menampilkan string 
 
   ```
   salam_spanyol = 'Hola.'
-  cetak(salam_spanyol)
+  print(salam_spanyol)
   ```
 
   Kita harus mendapatkan output berikut:
@@ -948,8 +948,8 @@ Dalam latihan ini, kita akan mempelajari berbagai cara untuk menampilkan string 
 6. Sekarang, tampilkan pesan ucapan bahasa Arab, seperti yang disebutkan dalam potongan kode berikut: 
 
    ```
-   arabic_greeting = 'Ahlan wa sahlan.' 
-   print (arabic_greeting) 
+   salam_arab = 'Ahlan wa sahlan.' 
+   print(salam_arab) 
    ```
 
    Kita akan mendapatkan output berikut: 
@@ -1245,7 +1245,7 @@ Dalam latihan ini, Kita akan mempelajari bagaimana tipe data dan casting dapat b
 5. Tambahkan '5' dan '7' dengan mengubahnya menjadi **int** terlebih dahulu: 
 
    ```
-   int ('5') + int ('7') 
+   int('5') + int('7') 
    ```
 
    Kita akan mendapatkan output berikut:
@@ -1747,7 +1747,7 @@ Dalam latihan ini, kita akan berlatih menggunakan operator pembanding. Kita akan
 3. Dengan menggunakan cuplikan kode berikut, kita dapat memeriksa apakah **usia** lebih dari atau sama dengan **20** dan kurang dari atau sama dengan **21**:
 
   ```
-  usia> = 20 and usia <= 21
+  usia >= 20 and usia <= 21
   ```
 
   Kita akan mendapatkan output berikut: 
@@ -1830,7 +1830,7 @@ Dalam latihan ini, kita akan berlatih menggunakan operator pembanding. Kita akan
   Tanda kurung tidak diperlukan jika hanya ada satu kemungkinan interpretasi. Saat menggunakan lebih dari dua kondisi, tanda kurung biasanya merupakan ide yang bagus. Perhatikan bahwa tanda kurung selalu diizinkan. Berikut ini adalah pendekatan lain:
 
   ```
-  (20 <= usia <30) atau (30 <= usia <40)
+  (20 <= usia <30) or (30 <= usia <40)
   ```
 
 
@@ -2300,7 +2300,7 @@ Ikuti langkah berikut :
 7. Inisialisasi **while** loop dari -1 ke akar kuadrat dari bilangan tersebut:
 
    ```
-   while i <= angka** (0.5):
+   while i <= angka**(0.5):
    ```
 
 8. Naikan i sebesar 1:
@@ -2485,7 +2485,7 @@ Dalam latihan ini, kita akan menggunakan for loop untuk mencetak karakter dalam 
 
 ```
 for i in 'Indonesia':
-print(i)
+	print(i)
 ```
 
 Kita akan mendapatkan output sebagai berikut :
