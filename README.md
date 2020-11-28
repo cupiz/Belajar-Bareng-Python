@@ -26,6 +26,8 @@ Silahkan teman-teman juga dapat memberikan kontribusi ke Repository ini. Penamba
 
 - Sesi 2 Struktur Python
 
+- Sesi 3 Menjalankan Python - Program, Algoritma, dan Fungsi
+
 
 
 ------
