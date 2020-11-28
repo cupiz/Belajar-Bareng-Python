@@ -22,11 +22,9 @@ Silahkan teman-teman juga dapat memberikan kontribusi ke Repository ini. Penamba
 
   ​		- Install Docker
 
-- Sesi 1 
+- Sesi 1 [Matematika, String, Kondisi, dan Perulangan](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/Sesi-1-matematika-string-kondisi-perulangan/sesi1.md)
 
-  [Matematika, String, Kondisi, dan Perulangan!] (https://github.com/cupiz/Belajar-Bareng-Python/blob/main/Sesi-1-matematika-string-kondisi-perulangan/sesi1.md)
-
-- Sesi 2 [Struktur Python!] (https://github.com/cupiz/Belajar-Bareng-Python/blob/main/Sesi-2-struktur-python/sesi2.md)
+- Sesi 2 [Struktur Python](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/Sesi-2-struktur-python/sesi2.md)
 
 - Sesi 3 Menjalankan Python - Program, Algoritma, dan Fungsi
 
