@@ -43,7 +43,7 @@ List adalah jenis wadah di Python yang digunakan untuk menyimpan beberapa kumpul
 
 
 
-![1](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\1.png)
+![](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/1.png)
 
 
 
@@ -127,7 +127,7 @@ Yang dapat kita lakukan adalah menampilkan struktur tabel yang ditunjukkan dibaw
 
 Secara matematis, kita dapat menyajikan informasi yang ditunjukkan di atas menggunakan matriks 2 x 3 (2 baris kali 3 kolom). Matriks ini akan terlihat seperti ini :
 
-![2](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\2.png)
+![2](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/2.png)
 
 Sekarang kita akan melihat bagaimana kita dapat menyimpan matriks ini sebagai nested list dalam latihan berikut.
 
@@ -217,7 +217,7 @@ Kita akan menyimpan data tabel menggunakan nested list. Bayangkan ini : Kita saa
 Tujuan dari kegiatan ini adalah menggunakan nested list untuk menyimpan data dan mencetaknya saat kita membutuhkannya.
 Data yang diberikan kepada kita oleh perusahaan ditampilkan dibawah :
 
-![3](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\3.png)
+![3](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/3.png)
 
 Ikuti langkah-langkah berikut untuk menyelesaikan kegiatan ini:
 1. Buka Notebook Jupyter baru.
@@ -231,9 +231,9 @@ Ikuti langkah-langkah berikut untuk menyelesaikan kegiatan ini:
 5. Cetak detail semua karyawan dalam format yang rapi.
 
 6. Cetak hanya detail Lisa Crawford.
-  Dengan mencetak detail dalam format yang rapi, kita akan mendapatkan hasil sebagai berikut :
+    Dengan mencetak detail dalam format yang rapi, kita akan mendapatkan hasil sebagai berikut :
 
-  ![4](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\4.png)
+  ![4](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/4.png)
 
 
 
@@ -245,7 +245,7 @@ Kita akan terus melihat cara menggunakan nested list untuk beberapa operasi matr
 
 Dalam Latihan 23, Menerapkan Operasi Matriks (Penjumlahan dan Pengurangan), kita akan menggunakan data matriks berikut, **X** dan **Y**, dalam gambar di bawah :
 
-![5](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\5.png)
+![5](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/5.png)
 
 
 
@@ -325,7 +325,7 @@ Langkah-langkah berikut akan memungkinkan kita menyelesaikan latihan:
 
 Kita dapat melihat cara menggunakan nested list untuk melakukan perkalian matriks untuk dua matriks yang ditunjukkan pada gambar dibawah :
 
-![5a](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\5a.png)
+![5a](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/5a.png)
 
 Untuk operasi perkalian matriks, jumlah kolom pada matriks pertama (X) harus sama dengan jumlah baris pada matriks kedua (Y). Hasilnya akan memiliki jumlah baris yang sama dengan matriks pertama dan jumlah kolom yang sama dengan matriks kedua. Dalam hal ini, hasil matriks adalah matriks 3 x 4.
 
@@ -642,7 +642,7 @@ Kita mungkin telah memperhatikan kemiripan tertentu antara Kamus Python dan JSON
 
 Kamus Python adalah sesuatu yang mirip dengan pasangan key-value. Mereka hanya memetakan kunci ke nilai terkait, seperti yang ditunjukkan pada gambar dibawah :
 
-![7](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\7.png)
+![7](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/7.png)
 
 Kamus itu seperti list. Keduanya berbagi properti berikut:
 • Keduanya dapat digunakan untuk menyimpan nilai.
@@ -651,7 +651,7 @@ Kamus itu seperti list. Keduanya berbagi properti berikut:
 
 Perbedaan utama antara list dan kamus adalah bagaimana elemen diakses. Elemen list diakses oleh indeks posisinya, yaitu [0,1,2…] sedangkan elemen kamus diakses melalui kunci. Oleh karena itu, kamus adalah pilihan yang lebih baik untuk merepresentasikan koleksi, dan kunci mnemonik lebih cocok ketika item koleksi diberi label, misalnya, record database seperti gambar dibawah. Basis data di sini setara dengan list, dan list basis data berisi catatan yang dapat direpresentasikan menggunakan kamus. Di dalam setiap record, ada field untuk menyimpan nilai masing-masing, dan kamus dapat digunakan untuk menyimpan record dengan kunci unik yang dipetakan ke nilai :
 
-![8](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\8.png)
+![8](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/8.png)
 
 Namun, ada beberapa aturan yang perlu kita ingat dengan kamus Python:
 • Kunci harus unik - tidak ada kunci duplikat yang diperbolehkan.
@@ -733,7 +733,7 @@ Dalam latihan ini, kita akan bekerja dengan kamus untuk menyimpan record film, d
 
    Kita akan mendapatkan keluaran berikut :
 
-![9](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\9.png)
+![9](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/9.png)
 
 Hingga saat ini, kita telah melihat betapa mudahnya menerapkan nested di list dan kamus. Dengan menggabungkan list dan kamus secara kreatif, kita dapat menyimpan informasi dunia nyata yang kompleks dan struktur model secara langsung dan mudah. Ini adalah salah satu manfaat utama Python.
 
@@ -745,7 +745,7 @@ Hingga saat ini, kita telah melihat betapa mudahnya menerapkan nested di list da
 
 Ingat kumpulan data karyawan, yang sebelumnya kita simpan menggunakan nested list ? Sekarang setelah kita mempelajari tentang list dan kamus, kita akan melihat bagaimana kita dapat menyimpan dan mengakses data secara lebih efektif menggunakan dua tipe data ini - list dan kamus :
 
-![10](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\10.png)
+![10](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/10.png)
 
 Ikuti langkah-langkah berikut untuk menyelesaikan aktivitas ini:
 1. Buka notebook Jupyter (Kita dapat membuat yang baru atau menggunakan yang sudah ada).
@@ -759,7 +759,7 @@ Ikuti langkah-langkah berikut untuk menyelesaikan aktivitas ini:
 5. Cetak detail semua karyawan dalam format yang rapi.
 
 6. Cetak hanya detail **Sujan Patel**.
-  Kita akan mendapatkan keluaran berikut:
+    Kita akan mendapatkan keluaran berikut:
 
   ```
   Name: Sujan Patel
@@ -921,7 +921,7 @@ Dalam latihan ini, kita akan belajar bagaimana mengakses kamus menggunakan metod
 
 Objek tuple mirip dengan list, tetapi tidak dapat diubah. Tuple adalah urutan yang tidak dapat diubah, yang berarti nilainya tidak dapat diubah setelah inisialisasi. Kita menggunakan tupel untuk merepresentasikan koleksi item tetap :
 
-![11](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\11.png)
+![11](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/11.png)
 
 Misalnya, kita dapat menentukan weekdays menggunakan list, sebagai berikut :
 
@@ -971,7 +971,7 @@ Dalam latihan ini, kita akan belajar tentang berbagai properti tupel:
 
    Kita akan mendapatkan keluaran berikut:
 
-   ![12](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\12.png)
+   ![12](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/12.png)
 
 Satu-satunya cara untuk menyiasatinya adalah dengan membuat tupel baru dengan menggabungkan tupel yang ada dengan item baru lainnya.
 
@@ -1085,13 +1085,13 @@ Dalam latihan ini, kita akan mendapatkan pemahaman tentang set dengan Python. Sa
 
 Set mendukung operasi umum seperti unions dan intersectionsn. Operasi **union** mengembalikan satu set yang berisi semua elemen unik di set A dan B; operasi **intersect** mengembalikan satu set yang berisi elemen unik milik himpunan A dan juga milik himpunan B pada saat yang sama:
 
-![13](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\13.png)
+![13](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/13.png)
 
 
 
 Gambar berikut mewakili operasi intersect:
 
-![14](D:\Cupiz\Nulis\Python\Workshop\gambar\sesi2\14.png)
+![14](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/gambar/sesi2/14.png)
 
 
 
