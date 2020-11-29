@@ -26,7 +26,7 @@ Silahkan teman-teman juga dapat memberikan kontribusi ke Repository ini. Penamba
 
 - Sesi 2 [Struktur Python](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/Sesi-2-struktur-python/sesi2.md)
 
-- Sesi 3 Menjalankan Python - Program, Algoritma, dan Fungsi
+- Sesi 3 [Menjalankan Python - Program, Algoritma, dan Fungsi](https://github.com/cupiz/Belajar-Bareng-Python/blob/main/Sesi-3-program-algoritma-fungsi/sesi3.md)
 
 
 

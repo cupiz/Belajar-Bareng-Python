@@ -172,7 +172,7 @@ Dalam latihan ini, Akita memperluas modul **my_module.py** dari Latihan 35, deng
 
 #### Import
 
-Setelah pernyataan shebang dan docstring opsional, file Python biasanya mengimpor kelas, modul, dan fungsi dari pustaka lain. Misalnya, jika kita ingin menghitung nilai **exp(2)**, kita dapat mengimpor modul **math** dari pustaka stkitar (Kita akan mempelajari selengkapnya tentang stkitar library di Sesi 6, Stkitar Library) :
+Setelah pernyataan shebang dan docstring opsional, file Python biasanya mengimpor kelas, modul, dan fungsi dari pustaka lain. Misalnya, jika kita ingin menghitung nilai **exp(2)**, kita dapat mengimpor modul **math** dari pustaka standar (Kita akan mempelajari selengkapnya tentang standar library di Sesi 6, standar Library) :
 
 ```
 import math
